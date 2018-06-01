@@ -1,7 +1,12 @@
 ---
-name: hhh
-about: Describe this issue template's purposehhh here.
+name: Formal Methods Course
+about: Template for Introducing Courses in the FME repository
 
 ---
 
-*course name
+Course name:
+University hosting the course:
+Contact person:
+Concepts taught:
+Tools used:
+Webpage:
