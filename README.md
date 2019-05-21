@@ -1,3 +1,5 @@
+# Formal-Methods-Courses
+Here we collect worldwide courses teaching formal methods
 
  ##  Certified Programming
 * Country: Portugal
@@ -533,25 +535,3 @@
 * Concepts taught: Hoare Logic, data refinement
 * Tools used:
 * Webpage: http://www.cse.unsw.edu.au/~cs2111/
-
- ##  Reasoning about Programs
-* Country: Australia
-* Course code, if applicable: CSSE3100
-* University hosting the course: The University of Queensland
-* Contact person Graeme Smith, smith
-* Concepts taught: Hoare Logic, theorem proving, refinement calculus
-* Tools used: KeY
-* Webpage: 
-    https://my.uq.edu.au/programs-courses/course.html?course_code=csse3100
-* Year/Level: 3
-
- ##  Concurrency: Theory and Practice
-* Country: Australia
-* Course code, if applicable: CSSE7610
-* University hosting the course: The University of Queensland
-* Contact person Graeme Smith, smith
-* Concepts taught: Model Checking
-* Tools used: SPIN
-* Webpage: 
-    https://my.uq.edu.au/programs-courses/course.html?course_code=csse7610
-* Year/Level: MSc
