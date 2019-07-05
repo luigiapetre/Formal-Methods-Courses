@@ -1,6 +1,69 @@
 # Formal-Methods-Courses
 Here we collect worldwide courses teaching formal methods
 
+ ##  Software Analysis
+    Course name: Software analysis
+* Course code, if applicable: INF.M062
+* University hosting the course: USI (Università della Svizzera italiana), 
+    Switzerland
+* Contact person Carlo A. Furia
+* Concepts taught: deductive verification, static analysis, type systems, 
+    model checking, predicate abstraction, symbolic execution, dynamic analysis
+* Tools used: Dafny and the Checker Framework (for the course's assignments). 
+    The course also includes brief demos of Frama-C, Spin, CPAchecker, and Klee
+* Webpage: https://github.com/bugcounting/software-analysis/
+* Year/Level: MSc (also available to PhD students)
+
+ ##  Theoretical Computer Science II
+* Country: Luxembourg
+* Course code, if applicable:
+* University hosting the course: University of Luxembourg
+* Contact person Jun Pang, jun.pang
+* Concepts taught: transition systems, linear-time properties, omega-regular 
+    properties, Buchi automata, LTL, CTL, LTL model checking, CTL model 
+    checking
+* Tools used: Spin
+* Webpage:  
+    https://wwwen.uni.lu/studies/fstc/bachelor_in_computer_science/programme
+    Year/level: 2
+
+ ##  Formal Methods
+* Country: Luxembourg
+* Course code, if applicable:
+* University hosting the course: University of Luxembourg
+* Contact person Jun Pang, jun.pang
+* Concepts taught: Alloy, process algebra, mu-calculus, model checking, mcrl2
+* Tools used: Alloy, mcrl2
+* Webpage: 
+    https://wwwen.uni.lu/studies/fstc/master_in_information_and_computer_sciences/programme
+    
+* Year/Level: MSc
+
+ ##  Applied Formal Methods
+* Country: US
+* Course code, if applicable: AERE/COMS 407/507
+* University hosting the course: Iowa State University (Ames, IA, USA)
+* Contact person Kristin Yvonne Rozier (kyrozier
+* Concepts taught: Logic Specifications, Temporal Logics (LTL, CTL), Explicit 
+    Model Checking, Symbolic Model Checking, Theorem Proving, Survey of 
+    state-of-the-art including the capabilities and limitations of applying 
+    formal methods for systems analysis, focusing on the aerospace domain
+* Tools used: Spin, SPOT, nuXmv, PVS
+* Webpage: http://temporallogic.org/courses/AppliedFormalMethods/
+
+ ##  Trustworthy programming
+* Country: France
+* Course code, if applicable:
+* University hosting the course: University of Rennes 1
+* Contact person Sandrine Blazy, Sandrine.Blazy
+* Concepts taught: deductive verification, pre and post-conditions, loop 
+    invariants, type invariants, ghost code
+* Tools used: Why3
+* Webpage:  
+    https://formations.univ-rennes1.fr/formation/programmation-de-confiance?studentstatus=112
+     (in French)
+    Year/level: 3
+
  ##  Certified Programming
 * Country: Portugal
 * Course code, if applicable: 11511
@@ -535,3 +598,25 @@ Here we collect worldwide courses teaching formal methods
 * Concepts taught: Hoare Logic, data refinement
 * Tools used:
 * Webpage: http://www.cse.unsw.edu.au/~cs2111/
+
+ ##  Reasoning about Programs
+* Country: Australia
+* Course code, if applicable: CSSE3100
+* University hosting the course: The University of Queensland
+* Contact person Graeme Smith, smith
+* Concepts taught: Hoare Logic, theorem proving, refinement calculus
+* Tools used: KeY
+* Webpage: 
+    https://my.uq.edu.au/programs-courses/course.html?course_code=csse3100
+* Year/Level: 3
+
+ ##  Concurrency: Theory and Practice
+* Country: Australia
+* Course code, if applicable: CSSE7610
+* University hosting the course: The University of Queensland
+* Contact person Graeme Smith, smith
+* Concepts taught: Model Checking
+* Tools used: SPIN
+* Webpage: 
+    https://my.uq.edu.au/programs-courses/course.html?course_code=csse7610
+* Year/Level: MSc

@@ -1,5 +1,5 @@
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
-brew install ghi
+#brew install ghi
 echo "# Formal-Methods-Courses" > README.md
 echo "Here we collect worldwide courses teaching formal methods" >> README.md
 ghi list | grep -io '[0-9][0-9]*' | xargs -n1  ghi show > tmp.txt
